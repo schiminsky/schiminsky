@@ -20,7 +20,7 @@ Busco sempre unir performance, boas práticas e criatividade para entregar solu�
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Redes Sociais
 - [LinkedIn](https://www.linkedin.com/in/schiminsky/)  
 - [X (Twitter)](https://x.com/schiminsky)
 
