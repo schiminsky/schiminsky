@@ -47,13 +47,13 @@ Busco sempre unir performance, boas práticas e criatividade para entregar solu�
 ## 🌐 Contatos
   <div>
     <a href="mailto:schiminsky@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
     </a>
     <a href="https://www.linkedin.com/in/schiminsky" target="_blank">
-          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
     </a>
     <a href="https://x.com/schiminsky" target="_blank">
-          <img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+          <img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"/>
     </a>
   </div>
 
