@@ -44,9 +44,18 @@ Busco sempre unir performance, boas práticas e criatividade para entregar solu�
 
 ---
 
-## 🌐 Redes Sociais
-- [LinkedIn](https://www.linkedin.com/in/schiminsky/)  
-- [X (Twitter)](https://x.com/schiminsky)
+## 🌐 Contatos
+  <div>
+    <a href="mailto:schiminsky@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/schiminsky">
+          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://x.com/schiminsky">
+          <img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    </a>
+  </div>
 
 ---
 
@@ -56,5 +65,7 @@ Busco sempre unir performance, boas práticas e criatividade para entregar solu�
 - Conteúdo sobre tecnologia e carreira
 - Projetos open-source
 - Criação de Jogos e Homebrews
+
+---
 
 
