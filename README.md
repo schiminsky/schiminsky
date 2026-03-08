@@ -1,61 +1,64 @@
 # 👋 Olá, eu sou Claudio Schiminsky Junior
 
-💻 Desenvolvedor de Software | Entusiasta de Tecnologia  
+💻 Front-end Developer | VTEX IO & React 
 📍 Poá, São Paulo - Brasil  
 
 ---
 
 ## 🚀 Sobre mim
-Sou apaixonado por tecnologia e inovação, com experiência em desenvolvimento web e participação em projetos que envolvem diferentes stacks e metodologias.  
-Busco sempre unir performance, boas práticas e criatividade para entregar soluções de impacto.
+Sou Desenvolvedor Front-end com mais de 3 anos de experiência sólida no ecossistema de e-commerce, especializado em VTEX IO, React e TypeScript. Minha trajetória é marcada pela evolução de grandes operações, como as lojas do Grupo Adcos (Home Care, Profissional e Elbo), onde atuei focado em escalar resultados através da tecnologia.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> 
-      <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/css3.png" alt="css3" width="40" height="40"> 
-      <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/sass.png" alt="sass" width="40" height="40">
-</p>
-<p align="left"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"> 
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="typescript" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/react.png" alt="react" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="next" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/jquery.png" alt="jquery" width="40" height="40">
-      <img src="https://brand.vtex.com/wp-content/themes/vtex-brand/img/logo.svg" alt="vtex" width="100" height="100">
-      
-</p>
+## 🎯 No que eu foco:
+* **Performance & Conversão**: Implementação de melhorias em Home Pages, PDPs e Checkouts para reduzir o tempo de carregamento e otimizar a jornada de compra.
+* **Modularidade**: Criação de componentes reutilizáveis e interfaces responsivas de alta fidelidade visual.
+* **Impacto de Negócio**: Desenvolvimento de Landing Pages estratégicas e monitoramento contínuo de métricas de SEO e usabilidade para elevar a experiência do usuário.
   
-<p align="left"> 
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png" alt="github" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/gitlab.png" alt="gitlab" width="40" height="40">
+---
+
+## 🛠️ Tech Stack
+### Core Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### Frameworks & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/VTEX%20IO-F71963?style=for-the-badge&logo=vtex&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
+
+### Version Control & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ---
 
 ## 📚 Estudando Atualmente
-<p align="left"> 
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40">
+### Backend Frameworks
+<p align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
 
 ---
 
 ## 🌐 Contatos
-  <div>
-    <a href="mailto:schiminsky@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-    </a>
-    <a href="https://www.linkedin.com/in/schiminsky" target="_blank">
-          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-    </a>
-    <a href="https://x.com/schiminsky" target="_blank">
-          <img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"/>
-    </a>
-  </div>
+
+<p align="left">
+<a href="mailto:schiminsky@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><a href="https://www.linkedin.com/in/schiminsky" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://x.com/schiminsky" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
 ---
 
