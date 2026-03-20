@@ -1,6 +1,6 @@
 ---
 <h1 align="center">
- 👋 Olá, eu sou Claudio Schiminsky Junior
+ 👋 Olá, eu sou o Claudio Schiminsky Junior
 </h1>
 <p align="center">
 💻 Front-end Developer | VTEX IO & React 
