@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Sobre mim
-Sou Desenvolvedor Front-end com mais de 3 anos de experiência sólida no ecossistema de e-commerce, especializado em VTEX IO, React e TypeScript. Minha trajetória é marcada pela evolução de grandes operações, como as lojas do Grupo Adcos (Home Care, Profissional e Elbo), onde atuei focado em escalar resultados através da tecnologia.
+Sou Desenvolvedor Front-end com mais de 4 anos de experiência sólida no ecossistema de e-commerce, especializado em VTEX IO, React e TypeScript. Minha trajetória é marcada pela evolução de grandes operações, como as lojas do Grupo Adcos (Home Care, Profissional e Elbo), onde atuei focado em escalar resultados através da tecnologia.
 
 ---
 
