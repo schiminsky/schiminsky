@@ -3,7 +3,7 @@
  👋 Olá, eu sou o Claudio Schiminsky Junior
 </h1>
 <p align="center">
-💻 Front-end Developer | VTEX IO & React 
+💻 Front-end Developer | VTEX IO | React | Faststore
 </p>
 <p align="center">
 📍 Poá, São Paulo - Brasil  
@@ -12,8 +12,8 @@
 ---
 
 ## 🚀 Sobre mim
-Sou Desenvolvedor Front-end com mais de 5 anos de experiência sólida no ecossistema de e-commerce, especializado em VTEX IO, React e TypeScript. Minha trajetória é marcada pela evolução de grandes operações, como as lojas do Grupo Adcos (Home Care, Profissional e Elbo), onde atuei focado em escalar resultados através da tecnologia.
-Atualmente sou desenvolvedor front end de um projeto de implantação e migração de lojas VTEX IO para Faststore (headless) pela Meest Br
+<p>Sou Desenvolvedor Front-end com mais de 5 anos de experiência sólida no ecossistema de e-commerce, especializado em VTEX IO, React e TypeScript. Minha trajetória é marcada pela evolução de grandes operações, como as lojas do Grupo Adcos (Home Care, Profissional e Elbo), onde atuei focado em escalar resultados através da tecnologia.</p>
+<p>Atualmente sou desenvolvedor front end de um projeto de implantação e migração de lojas VTEX IO para Faststore (headless) pela Meest Br</p>
 
 ---
 
